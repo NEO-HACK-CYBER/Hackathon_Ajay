@@ -1,0 +1,19 @@
+{
+  "intents": [
+    {
+      "tag": "math",
+      "patterns": ["What is algebra?", "Explain calculus", "How do you solve equations?"],
+      "responses": ["Algebra is a branch of mathematics dealing with symbols and rules for manipulating those symbols.", "Calculus is the study of change. It involves derivatives and integrals.", "To solve equations, you need to isolate the variable and find its value."]
+    },
+    {
+      "tag": "science",
+      "patterns": ["What is photosynthesis?", "Explain the theory of relativity", "What is the water cycle?"],
+      "responses": ["Photosynthesis is the process by which green plants use sunlight to synthesize foods from carbon dioxide and water.", "The theory of relativity is a scientific theory of the relationship between space and time.", "The water cycle is the continuous movement of water on, above, and below the surface of the Earth."]
+    },
+    {
+      "tag": "study_tips",
+      "patterns": ["How to study effectively?", "Give me some study tips", "What are the best practices for studying?"],
+      "responses": ["Create a study schedule, use active recall, and take regular breaks.", "Study in a distraction-free environment and review material regularly.", "Use mnemonic devices and practice problems to reinforce learning."]
+    }
+  ]
+}
